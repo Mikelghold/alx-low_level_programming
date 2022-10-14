@@ -5,7 +5,7 @@
 /**
  * main - A c code to print the last digit
  * of a stored random figure
- * Always return (0).
+ * Return: Always 0 (Success).
  */
 int main(void)
 {
